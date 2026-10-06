@@ -7,3 +7,9 @@
 [submodule "HA_energyCalc"]
 	path = HA_energyCalc
 	url = ../HA_energyCalc/
+[submodule "HA_energyAnalize"]
+	path = HA_energyAnalize
+	url = git@github.com:wiacekmarcin/HA_energyAnalize.git
+[submodule "HA_calendarTCP"]
+	path = HA_calendarTCP
+	url = git@github.com:wiacekmarcin/HA_calendarTCP.git
