@@ -1,6 +1,6 @@
 [submodule "lustro_fs_app"]
 	path = lustro_fs_app
-	url = git@github.com:/wiacekmarcin/lustro_fs_app.git
+	url = git@github.com:wiacekmarcin/lustro_fs_app.git
 [submodule "WC.controller"]
 	path = WC.controller
 	url = git@github.com:wiacekmarcin/WC.git
