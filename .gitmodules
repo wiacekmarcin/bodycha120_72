@@ -3,7 +3,7 @@
 	url = git@github.com:/wiacekmarcin/lustro_fs_app.git
 [submodule "WC.controller"]
 	path = WC.controller
-	url = git@github.com:/wiacekmarcin/WC.git
+	url = git@github.com:wiacekmarcin/WC.git
 [submodule "HA_energyCalc"]
 	path = HA_energyCalc
 	url = ../HA_energyCalc/
