@@ -1,0 +1,294 @@
+(footprint "Header_Angled_Plate_1x08_P2.54mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Listwa kolkowa katowa 8x2.54 mm z plyta, nozki THT (model uproszczony)")
+	(tags "pin header angled 2.54mm 8pin")
+	(property "Reference" "REF**"
+		(at -4 -1.9 0)
+		(layer "F.SilkS")
+		(uuid "12c0e573-e03e-463c-8ae3-840b68da5a6c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Header_Angled_Plate_1x08_P2.54mm"
+		(at -4 20.95 0)
+		(layer "F.Fab")
+		(uuid "c0ba5c5e-0636-40a9-bba5-698720192b87")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7fe40acd-8116-4f15-a5d6-d1c6b7f13b59")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5f08783-0482-484a-88bc-f1e3eaceece6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.72 -1.39)
+		(end -1.18 -1.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "97a341c0-a965-46d0-8f9b-2d0ac437b36f")
+	)
+	(fp_line
+		(start -9.72 19.17)
+		(end -9.72 -1.39)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "53f7b07a-6660-4255-b719-ada106e565b8")
+	)
+	(fp_line
+		(start -4.3 -1.39)
+		(end -4.3 19.17)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4758a60-2c24-4a33-97ee-55f578b9c42f")
+	)
+	(fp_line
+		(start -1.18 -1.39)
+		(end -1.18 19.17)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "205a6fc9-c50b-46a9-9de0-3c301e311263")
+	)
+	(fp_line
+		(start -1.18 19.17)
+		(end -9.72 19.17)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8ccd7132-a566-47d7-9723-144bd3917f07")
+	)
+	(fp_poly
+		(pts
+			(xy 1.4 -0.7) (xy 1.4 0.7) (xy 0.7 0)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "22fbe7cd-f5fc-4600-990f-7a1ee756e3eb")
+	)
+	(fp_line
+		(start -11.8 -2.02)
+		(end 1 -2.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fc692d15-2051-42cd-9130-79d44b5fb8a3")
+	)
+	(fp_line
+		(start -11.8 19.8)
+		(end -11.8 -2.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "26a4aa9c-e5be-4adf-b304-51c044b633a5")
+	)
+	(fp_line
+		(start 1 -2.02)
+		(end 1 19.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "49298a56-09ab-4d2e-94d8-4b407c007576")
+	)
+	(fp_line
+		(start 1 19.8)
+		(end -11.8 19.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a74f93fd-c91a-4b38-aab7-4a0d9b42f207")
+	)
+	(fp_line
+		(start -9.6 -1.27)
+		(end -1.3 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9b91cdf-5bc5-43e9-8cb2-c97aef04b5d6")
+	)
+	(fp_line
+		(start -9.6 19.05)
+		(end -9.6 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dabed023-c224-423f-944c-f84d6c8d6d15")
+	)
+	(fp_line
+		(start -4.3 -1.27)
+		(end -4.3 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6922ae76-8ad0-4330-826b-0d26026d9de3")
+	)
+	(fp_line
+		(start -1.3 -1.27)
+		(end -1.3 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc38c176-0214-4ced-b7c9-1c8a487cc897")
+	)
+	(fp_line
+		(start -1.3 19.05)
+		(end -9.6 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "757012e8-58e8-42d7-89ce-69f29ad82354")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -4 8.89 90)
+		(layer "F.Fab")
+		(uuid "6bd4a950-bb66-46b2-8f4e-fc37f288fecc")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cffa82f3-8a25-4a28-a515-3b6913f92c23")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bd583476-cefc-46bb-8964-474f1883b80d")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9911c9e7-5e86-4cc8-b3e4-6152f92c05ab")
+	)
+	(pad "4" thru_hole circle
+		(at 0 7.62)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aaca64ba-bee5-4131-9dd6-1d3c04e5e226")
+	)
+	(pad "5" thru_hole circle
+		(at 0 10.16)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "57b76087-24d8-431c-9cf3-5418a5cd1632")
+	)
+	(pad "6" thru_hole circle
+		(at 0 12.7)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "61b9731a-2774-4824-bb59-88378cd4fa04")
+	)
+	(pad "7" thru_hole circle
+		(at 0 15.24)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ce712c79-534c-426d-ad52-c91acc501227")
+	)
+	(pad "8" thru_hole circle
+		(at 0 17.78)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8c499b7f-7ef0-4fa7-baa4-19c1c657c90c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Konektory.3dshapes/Header_Angled_Plate_1x08_P2.54mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
