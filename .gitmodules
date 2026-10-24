@@ -13,3 +13,6 @@
 [submodule "HA_calendarTCP"]
 	path = HA_calendarTCP
 	url = git@github.com:wiacekmarcin/HA_calendarTCP.git
+[submodule "przewody"]
+	path = przewody
+	url = git@github.com:wiacekmarcin/mieszkanie.git
