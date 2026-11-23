@@ -22,3 +22,6 @@
 [submodule "ha_kiosk"]
 	path = ha_kiosk
 	url = git@github.com:wiacekmarcin/ha_kiosk_hol.git
+[submodule "ha_kiosk_dzieci"]
+	path = ha_kiosk_dzieci
+	url = git@github.com:wiacekmarcin/ha_kiosk_dzieci.git
