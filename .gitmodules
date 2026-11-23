@@ -16,3 +16,6 @@
 [submodule "przewody"]
 	path = przewody
 	url = git@github.com:wiacekmarcin/mieszkanie.git
+[submodule "ha_intercom"]
+	path = ha_intercom
+	url = git@github.com:wiacekmarcin/ha_intercom.git
