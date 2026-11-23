@@ -19,3 +19,6 @@
 [submodule "ha_intercom"]
 	path = ha_intercom
 	url = git@github.com:wiacekmarcin/ha_intercom.git
+[submodule "ha_kiosk"]
+	path = ha_kiosk
+	url = git@github.com:wiacekmarcin/ha_kiosk_hol.git
