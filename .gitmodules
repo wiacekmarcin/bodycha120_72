@@ -28,3 +28,12 @@
 [submodule "ha_kiosk_center"]
 	path = ha_kiosk_center
 	url = git@github.com:wiacekmarcin/ha_kiosk_center.git
+[submodule "ha_kiosk_salon"]
+	path = ha_kiosk_salon
+	url = git@github.com:wiacekmarcin/ha_kiosk_salon.git
+[submodule "ha_kiosk_kuchnia"]
+	path = ha_kiosk_kuchnia
+	url = git@github.com:wiacekmarcin/ha_kiosk_kuchnia.git
+[submodule "ha_kiosk_sypialnia"]
+	path = ha_kiosk_sypialnia
+	url = git@github.com:wiacekmarcin/ha_kiosk_sypialnia.git
